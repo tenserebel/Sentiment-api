@@ -1,6 +1,8 @@
 # Sentiment-api
 This contains the api for sentiment app. Created using flask and nltk.
 
+The api is hosted on render.
+
 ---
 
 - [Api Link](https://sentiment-api-jxid.onrender.com)
